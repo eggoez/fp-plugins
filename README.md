@@ -1,4 +1,4 @@
 fp-plugins
 ==========
 
-My FlatPress Plugins
+This is a list of my <code>fp-plugins</code>
