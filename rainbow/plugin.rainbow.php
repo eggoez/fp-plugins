@@ -10,7 +10,7 @@ Author URI: http://goez.my.id
  
 function plugin_rainbow() {
 ?>
-<!-- Rainbow Loaded by eggoez http://eg.goez.tk -->
+<!-- Rainbow Loaded by eggoez http://eg.goez.my.id -->
 <script>
 var rate = 20;  // Increase amount(The degree of the transmutation)
 if (document.getElementById)
